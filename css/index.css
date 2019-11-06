@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: red;
+}
